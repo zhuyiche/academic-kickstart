@@ -20,7 +20,7 @@ weight = 5
 [[education.courses]]
   course = "BSc in Statistis"
   institution = "University of Toronto"
-  year = 2019
+  year = 2020
  
 +++
 
