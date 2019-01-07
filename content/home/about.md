@@ -10,31 +10,20 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Machine Learning",
+    "Computer Vision",
+    "Anomaly Detection",
+    "Bayesian Statistics"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Statistis"
+  institution = "University of Toronto"
+  year = 2019
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a undergraduate at the University of Toronto. I am broadly interested in research at machine learning, computer vision, anomaly detection and bayesian statistics. I was an undergrad research assistant at Fudan University with [Wenqiang Zhang](http://faet.fudan.edu.cn/17/bb/c13532a137147/page.htm). I interned at Huawei 2012 Lab to work on research with Shimin Tao and [Dan Pei](https://netman.aiops.org/~peidan/). I join the base model research team at Face++ as a research intern to work with [Jian Sun](http://www.jiansun.org/) and [Xiangyu Zhang](https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=en).
