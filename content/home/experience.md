@@ -49,6 +49,6 @@ date_format = "January 2006"
   location = "Shanghai, China"
   date_start = "2018-05-01"
   date_end = "2018-08-31"
-  description = """Medical imaging."""
+  description = """Medical imaging"""
 
 +++
