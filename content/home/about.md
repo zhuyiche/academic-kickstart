@@ -12,8 +12,7 @@ weight = 5
   interests = [
     "Machine Learning",
     "Computer Vision",
-    "Anomaly Detection",
-    "Bayesian Statistics"
+    "Anomaly Detection"
   ]
 
 # List your qualifications (such as academic degrees).
