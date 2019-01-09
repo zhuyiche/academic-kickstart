@@ -25,11 +25,11 @@ date_format = "January 2006"
   location = "Beijing, China"
   date_start = "2018-09-01"
   date_end = "2018-12-29"
-  description = """Machine learning on anomaly detection.
+  description = """Anomaly detection.
   Responsibilities include:
   
   * Building Key Performance Index(KPI) anomaly detection model
-  * Assisting to build a log data anomaly detection model
+  * Assisting to build log data anomaly detection model
   """
 
 [[experience]]
@@ -49,6 +49,6 @@ date_format = "January 2006"
   location = "Shanghai, China"
   date_start = "2018-05-01"
   date_end = "2018-08-31"
-  description = """Deep learning on medical imaging."""
+  description = """Medical imaging."""
 
 +++
