@@ -26,4 +26,5 @@ weight = 5
 
 # Biography
 
-I am an undergraduate at the University of Toronto. My primary research interests are computer vision, anomaly detection and bayesian statistics. I was an undergrad research assistant at Fudan University with [Wenqiang Zhang](http://faet.fudan.edu.cn/17/bb/c13532a137147/page.htm). I interned at Huawei 2012 Lab to work on research with Shimin Tao and [Dan Pei](https://netman.aiops.org/~peidan/). I'm currently a research intern  at the base model research team at Face++, working with [Jian Sun](http://www.jiansun.org/) and [Xiangyu Zhang](https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=en).
+I'm an undergraduate at the University of Toronto. I'm also a full-time research intern at the base model research team in Face++, lead by [Jian Sun](http://www.jiansun.org/) and [Xiangyu Zhang](https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=en). I was a research assistant at Fudan University, under the supervision of Prof. [Wenqiang Zhang](http://faet.fudan.edu.cn/17/bb/c13532a137147/page.htm). I interned at Huawei 2012 Lab to work on research with Shimin Tao and Prof. [Dan Pei](https://netman.aiops.org/~peidan/). \\
+I have broad research interests in machine learning, computer vision and anomaly detection. 
